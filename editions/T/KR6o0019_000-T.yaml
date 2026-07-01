@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6o0019/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 因明入正理論義纂要
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T44/T44n1842.xml
+    old_id: T44n1842
+hash: sha256:55355abdc5c78972a6e76495795c870dfd826977d94384e75ab7401c17652694

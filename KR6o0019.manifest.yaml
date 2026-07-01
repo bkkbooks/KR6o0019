@@ -1,0 +1,48 @@
+canonical_identifier: bkk:krp/KR6o0019/v1
+canonical_location: https://kanripo.org/bkk/KR6o0019/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 因明入正理論義纂要
+  identifiers:
+    alt_id:
+    - T44n1842
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T44/T44n1842.xml
+    old_id: T44n1842
+  edition:
+    short: bkk
+editions:
+- short: 甲
+  label: 甲
+  source_xml_id: wit1
+- short: 原
+  label: 原
+  source_xml_id: wit2
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6o0019_000.yaml, hash: 'sha256:55355abdc5c78972a6e76495795c870dfd826977d94384e75ab7401c17652694'}
+  - {seq: 1, filename: KR6o0019_001.yaml, hash: 'sha256:41977c4b2c6318f6b4c3b3efbb4e8b1b71826af85ad2d52892ee3589886b8bbb'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6o0019_001.markers.yaml, hash: 'sha256:e01632328a63359357fe56db930b15d43e9b7d3991812b2c23ae7fc4a0d4bb17'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6o0019_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 22897
+  label: 因明入正理論義纂要
+  type: juan
+  level: 1
+hash: sha256:7d446af743b00fc4d10631aea3aaaa42ba4e19b1ce80d6cfa7fb578d757bbbd6
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

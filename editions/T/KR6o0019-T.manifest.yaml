@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6o0019/T/v1
+canonical_location: https://kanripo.org/bkk/KR6o0019/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 因明入正理論義纂要
+  identifiers:
+    krp: KR6o0019
+    cbeta: T44n1842
+    cbeta_old_id: T44n1842
+    authorityid: CA0003773
+    json_key: T1842
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T44/T44n1842.xml
+    old_id: T44n1842
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6o0019_000-T.yaml, hash: 'sha256:55355abdc5c78972a6e76495795c870dfd826977d94384e75ab7401c17652694'}
+  - {seq: 1, filename: KR6o0019_001-T.yaml, hash: 'sha256:dd17684213db6df68c7c6ad20011c4aff575b1bea5439a32c7aae20e3ff529dc'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6o0019_000-T.markers.yaml, hash: 'sha256:3853ff15d285026b45b0802634358ed2b7f14efb7edcaa227e0ad34caeea79dc'}
+  - {seq: 1, role: markers, filename: assets/KR6o0019_001-T.markers.yaml, hash: 'sha256:4d4a39913ee8a7b3830a62725e3b6f76d0d70d3ca49f30e66990db14a15a8fed'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6o0019_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 22897
+  label: 因明入正理論義纂要
+  type: juan
+  level: 1
+hash: sha256:f29be3b79473821548d1191bd5213cb5ed79b97b8c2795b3f1c429ca53a456cc
