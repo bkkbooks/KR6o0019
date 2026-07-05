@@ -28,9 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6o0019_000.yaml, hash: 'sha256:55355abdc5c78972a6e76495795c870dfd826977d94384e75ab7401c17652694'}
-  - {seq: 1, filename: KR6o0019_001.yaml, hash: 'sha256:41977c4b2c6318f6b4c3b3efbb4e8b1b71826af85ad2d52892ee3589886b8bbb'}
+  - {seq: 1, filename: KR6o0019_001.yaml, hash: 'sha256:dd17684213db6df68c7c6ad20011c4aff575b1bea5439a32c7aae20e3ff529dc'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6o0019_001.markers.yaml, hash: 'sha256:e01632328a63359357fe56db930b15d43e9b7d3991812b2c23ae7fc4a0d4bb17'}
+  - {seq: 0, role: markers, filename: assets/KR6o0019_000.markers.yaml, hash: 'sha256:4266384e5543751c66f7a44d0ec547ad725626bec578ce69bdb13d6550237b1b'}
+  - {seq: 1, role: markers, filename: assets/KR6o0019_001.markers.yaml, hash: 'sha256:e05c4772a875846bdbc25e57e8fd7af2681f4870e33b2a697a49759639026b81'}
 table_of_contents:
 - ref:
     seq: 1
@@ -42,7 +43,4 @@ table_of_contents:
   label: 因明入正理論義纂要
   type: juan
   level: 1
-hash: sha256:7d446af743b00fc4d10631aea3aaaa42ba4e19b1ce80d6cfa7fb578d757bbbd6
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:d490fa87e7bde34d64f52e64982a43b20aab439ad0ac9c9f630a32ed9222aad2
